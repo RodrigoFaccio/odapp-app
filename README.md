@@ -6,6 +6,7 @@ npm install
 # OR using Yarn
 yarn 
 ```
+### iniciar 
 
 ```bash
 # using npm
